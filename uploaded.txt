@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on building smart machines capable of performing tasks that typically require human intelligence. 
+Key domains of AI include:
+- Machine Learning (ML): Teaching computers to learn patterns from data.
+- Natural Language Processing (NLP): Enabling computers to understand and generate human language.
+- Computer Vision: Allowing machines to interpret and process visual information from the world.
+- Robotics: Building systems that can perform actions in the physical world.
+
+AI is used in applications like virtual assistants, recommendation systems, autonomous vehicles, fraud detection, and more.
