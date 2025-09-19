@@ -3,6 +3,6 @@ langchain
 langchain-community
 transformers
 torch
-openai
+sentence-transformers
 chromadb
 tiktoken
